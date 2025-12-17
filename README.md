@@ -111,7 +111,7 @@ Deployment and verification:
 - https://sepolia.basescan.org/address/0xc6749c4d2f826a8f61e2f95cdb96314d6ff13a77  
 - https://sepolia.basescan.org/0xc6749c4d2f826a8f61e2f95cdb96314d6ff13a77/0#code  
 
-Contract "array" address (optional):  
+Contract "array" address:  
 0x71f25929a0ad761482e93c501003588b51ba9552  
 
 Deployment and verification:
